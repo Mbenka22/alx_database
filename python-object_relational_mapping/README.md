@@ -1,0 +1,1 @@
+In this project i am going to be exploring more on object oriented programming. With a focus on importing  , connecting and using my database in tandem with python.
